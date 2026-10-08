@@ -6,7 +6,7 @@
 <br />
 <br />
 
-**[Taintless Phone](https://taintlessphone.com)** &nbsp; The phone in the drawing, built for FiveM servers. Most of my time goes here.
+**[Taintless Phone](https://taintlessphone.com)** &nbsp; One connected phone for a whole FiveM city, with Cloud accounts, physical SIM cards, and an API for custom apps. Most of my time goes here.
 
 **[Taintless](https://taintless.dev)** &nbsp; Storefronts and growth analytics for Tebex sellers.
 
